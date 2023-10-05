@@ -1,1 +1,1 @@
-77ecb8b73a67df45ab26de831698250d5a3dd6497967d222d0534512456a304a  /target/wasm32-unknown-unknown/release/curve_momentum_bot_cw.wasm
+c0f1ea898a59fcf7cfb611046ce237f86aff704edc62f95228495404b53f4162  /target/wasm32-unknown-unknown/release/curve_momentum_bot_cw.wasm
