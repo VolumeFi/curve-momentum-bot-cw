@@ -1,1 +1,1 @@
-2f81bca31d5f7b751c0ba28cad1352b96157936c12ef8c53207c902bff2f7a12  curve_momentum_bot_cw.wasm
+0b2647af55ed99af9f96c2e9758a285fddf2cb6c7880bc6232b0dc99b4aba2ca  curve_momentum_bot_cw.wasm
